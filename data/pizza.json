@@ -1,0 +1,94 @@
+{
+  "menu": [
+    {
+      "kategori": "pizza",
+      "nama": "Meat Lover",
+      "harga": 49500,
+      "gambar": "meat-lover.jpg"
+    },
+    {
+      "kategori": "pizza",
+      "nama": "Super Supreme",
+      "harga": 49500,
+      "gambar": "supreme.jpg"
+    },
+    {
+      "kategori": "pizza",
+      "nama": "Tuna Melt",
+      "harga": 49500,
+      "gambar": "tuna-melt.jpg"
+    },
+    {
+      "kategori": "pizza",
+      "nama": "American Favourite",
+      "harga": 49500,
+      "gambar": "american-favourite.jpg"
+    },
+    {
+      "kategori": "pasta",
+      "nama": "Beef Spaghetti",
+      "harga": 43000,
+      "gambar": "beef-spaghetti.jpg"
+    },
+    {
+      "kategori": "pasta",
+      "nama": "Beef Lasagna",
+      "harga": 48000,
+      "gambar": "beef-lasagna.jpg"
+    },
+    {
+      "kategori": "pasta",
+      "nama": "Creamy Beef Fettuccine",
+      "harga": 43000,
+      "gambar": "creamy-beef-fettuccine.jpg"
+    },
+    {
+      "kategori": "nasi",
+      "nama": "Meatballs Beef Mushroom",
+      "harga": 40000,
+      "gambar": "meatballs-beef-mushroom.jpg"
+    },
+    {
+      "kategori": "nasi",
+      "nama": "Black Pepper Chicken",
+      "harga": 40000,
+      "gambar": "black-pepper-chicken.jpg"
+    },
+    {
+      "kategori": "nasi",
+      "nama": "Oriental Chicken",
+      "harga": 40000,
+      "gambar": "oriental-chicken.jpg"
+    },
+    {
+      "kategori": "minuman",
+      "nama": "Choco Mint",
+      "harga": 24000,
+      "gambar": "choco-mint.jpg"
+    },
+    {
+      "kategori": "minuman",
+      "nama": "Toffee Coffee",
+      "harga": 24000,
+      "gambar": "toffee-coffee.jpg"
+    },
+    {
+      "kategori": "minuman",
+      "nama": "Green Tea Shake",
+      "harga": 24000,
+      "gambar": "green-tea-shake.jpg"
+    },
+    {
+      "kategori": "minuman",
+      "nama": "Strawberry Milkshake",
+      "harga": 24000,
+      "gambar": "strawberry-milkshake.jpg"
+    },
+    {
+      "kategori": "minuman",
+      "nama": "Chocolate Milkshake",
+      "harga": 24000,
+      "gambar": "chocolate-milkshake.jpg"
+    }
+  ]
+}
